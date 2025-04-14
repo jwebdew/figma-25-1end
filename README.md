@@ -17,6 +17,7 @@
 - unsplash : 무료 이미지
 - Figma Docs : 스타일가이드 제작
 - Chroma Colors : 컬러 스타일 등록
+- Styler : 스타일 등록 (텍스트, 컬러 등)
 - QR Code Generator : qr 코드 제작
 - 한글입숨 : 한글 샘플 텍스트 
 - Shaper : 다양한 도형
